@@ -2,8 +2,6 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/artseyio
-    - name: zmk-artsey
-      url-base: https://github.com/artseyio
   projects:
     - name: zmk
       remote: zmkfirmware
